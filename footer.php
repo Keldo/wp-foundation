@@ -5,7 +5,7 @@
       <div class="group">
 
         <div class="site-footer__col-one">
-          <h1 class="school-logo-text school-logo-text--alt-color">&copy; <?php echo date("Y");?> <a href="<?php echo site_url() ?>"<?php echo get_bloginfo( 'name' ); ?></a></h1>
+          <h1 class="school-logo-text school-logo-text--alt-color">&copy; <?php echo date("Y");?> <a href="<?php echo site_url() ?>"><?php echo get_bloginfo( 'name' ); ?></a></h1>
         </div>
 
         <div class="site-footer__col-two-three-group">
