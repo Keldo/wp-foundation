@@ -10,7 +10,7 @@ The DevWorks OSI Foundation Public WordPess theme, created for our Foundation pr
  - Text Domain: wp-foundation
 
 # Required Plugin
-- Events requires the <a href="https://www.advancedcustomfields.com/" target"_blank"><strong>Custom Fields Plugin</strong></a> to be installed and configured.
+- Events requires the <a href="https://www.advancedcustomfields.com/" target="_blank"><strong>Custom Fields Plugin</strong></a> to be installed and configured.
 
 # Legal
 All files, unless otherwise stated, are released under the GNU General Public
